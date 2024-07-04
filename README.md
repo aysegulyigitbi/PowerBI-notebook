@@ -2,6 +2,8 @@
 
 In today's world, data analysis and visualization play a critical role in enabling businesses to make strategic decisions. In this context, powerful data analysis tools like Power BI allow users to make sense of complex data and create impactful reports. Power BI's DAX (Data Analysis Expressions) functions make data models dynamic and interactive, enhancing the depth of analyses. In this article, we will review a report I created using DAX functions in Power BI, detailing essential DAX functions such as ALL, ALLEXCEPT, ALLSELECTED, REMOVEFILTERS, and exploring other functions that can be used as alternatives. This article provides the necessary knowledge and tools to help you analyze your data more effectively and optimize your reports.
 
+For Turkish: https://turkiyeyayini.com/power-bi-dax-all-allexcept-allselected-removefilters-5c61494f88c6
+
 ![image](https://github.com/aysegulyigitbi/Powerbi/assets/127193220/88b6e83d-e786-4e37-925e-3ca4a8be08a1)
 
 
